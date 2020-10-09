@@ -52,4 +52,5 @@ int main() {
     a.showdata();
     b.showdata();
     c.showdata();
+    return 0;
 }
